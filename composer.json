@@ -1,5 +1,5 @@
 {
-    "name": "creof/wkb-parser",
+    "name": "landsearch/wkb",
     "type": "library",
     "description": "Parser for well-known binary (WKB/EWKB) object data",
     "keywords": ["parser", "string", "text", "geometry", "geography", "spatial", "wkb", "ewkb"],
